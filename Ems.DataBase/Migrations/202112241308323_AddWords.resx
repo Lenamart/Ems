@@ -117,26 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="star" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\star.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Target" xml:space="preserve">
+    <value>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</value>
   </data>
-  <data name="password" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\password.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="diploma" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\diploma.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="swap" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\swap.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="trash-can" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\trash-can.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pencil-case" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\pencil-case.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="plus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Images\plus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="DefaultSchema" xml:space="preserve">
+    <value>dbo</value>
   </data>
 </root>

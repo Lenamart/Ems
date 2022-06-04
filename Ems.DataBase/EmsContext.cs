@@ -10,6 +10,7 @@ namespace Ems.DataBase
     public class EmsContext : DbContext
     {
         public DbSet<User> Users { get; set; }
+        public DbSet<Word> Words { get; set; }
         public EmsContext() : base("DBConnection")
         {
 

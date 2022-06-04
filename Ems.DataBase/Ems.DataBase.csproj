@@ -56,9 +56,15 @@
     <Compile Include="Migrations\202112091241030_Init.designer.cs">
       <DependentUpon>202112091241030_Init.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202112241308323_AddWords.cs" />
+    <Compile Include="Migrations\202112241308323_AddWords.designer.cs">
+      <DependentUpon>202112241308323_AddWords.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StateStudy.cs" />
     <Compile Include="User.cs" />
+    <Compile Include="Word.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -67,6 +73,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202112091241030_Init.resx">
       <DependentUpon>202112091241030_Init.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202112241308323_AddWords.resx">
+      <DependentUpon>202112241308323_AddWords.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
